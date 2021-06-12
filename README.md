@@ -1,1 +1,5 @@
-# TEAM_TASK_3_MLOPS
+# ⚜️ Team Task
+
+Task Description 📄
+
+📌 Create Live Streaming Video Chat App without voice using cv2 module of Python: 
